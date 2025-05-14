@@ -32,3 +32,10 @@ The goal here is to **de-jargon** the stack, one low-level experiment at a time:
 
 This is a work in progress repo. Expect broken code, incomplete thoughts, and TODOs everywhere. But if you're also trying to figure this stuff out, feel free to follow along or suggest ideas.
 
+### 🙏 Inspiration
+
+This project is inspired by the amazing work of:
+
+- [Andrej Karpathy](https://github.com/karpathy) — especially his philosophy of learning by building
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) and [tinygrad](https://github.com/geohot/tinygrad) — proof that you can go deep with minimal code
+- All the folks making ML more accessible, one explainer at a time
