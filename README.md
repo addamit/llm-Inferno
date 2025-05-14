@@ -10,11 +10,8 @@ The goal here is to **de-jargon** the stack, one low-level experiment at a time:
 
 - Figure out what happens between a prompt and a prediction
 - Build intuition by implementing pieces in C and Python
-- Get hands-on with memory layouts, caching, quantization, etc.
 - Touch the metal — via C, CPU, GPU, and maybe a bit of pain
 - Break the black box and De-jargon the stack, piece by piece
-
-- It’s about getting my hands dirty, breaking things, and learning what all the **cool-sounding** stuff actually does.
 
 
 
