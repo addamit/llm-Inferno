@@ -19,7 +19,6 @@ The goal here is to **de-jargon** the stack, one low-level experiment at a time:
 
 - `notebooks/` — math, visualizations, prototyping
 - `c/` — raw system-level explorations
-- `notes/` — rough sketches and learnings
 - `inferno/` — where the actual engine may slowly emerge
 
 ### What this is not
