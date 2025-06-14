@@ -22,3 +22,11 @@ Tensor *create_tensor(int ndims, int *dimensions) {
     tensor->data = (float *)malloc(tensor->size * sizeof(float));
     return tensor;
 }
+
+// Function to free a tensor
+void free_tensor(Tensor *tensor) {
+    if (tensor) {
+        free(tensor->data);
+        free(tensor);
+    }
+}
